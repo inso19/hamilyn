@@ -1,0 +1,63 @@
+<!DOCTYPE html
+<html>
+<head>
+     <title>hamilyn's Autobiography</title>
+</head>
+
+<style>
+h1{
+   text-align:center;
+}
+.first{
+    text-align:center;
+    margin-left:20px;
+    margin-right:20 pox;
+    font-family:'times new roman', times.serif;
+}
+.images{
+    float:left;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    border:solid color black 1px;
+padding: 2px;
+}
+.bio{
+    font-size: 24px;
+    font-family:'times new roman', times,serif;
+}
+.design{
+    background-color: powerblue;
+}
+.style{
+    font-family:'times new roman',times, serif;
+    font-size: 60 px;
+    font-weight:bold;
+}
+</style>
+
+<body class="design">
+    <h1 class="start"> my autobiography</h1>
+    <div class="image">
+         <img src="mypic.jpg" alt=picture">
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
